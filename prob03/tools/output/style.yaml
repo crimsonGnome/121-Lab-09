@@ -1,0 +1,10 @@
+---
+MainSourceFile:  '/home/crimsongnome/Desktop/lab-09-crimsonGnome/prob03/progress_bar.cc'
+Diagnostics:
+  - DiagnosticName:  readability-magic-numbers
+    DiagnosticMessage:
+      Message:         '5 is a magic number; consider replacing it with a named constant'
+      FilePath:        main.cc
+      FileOffset:      161
+      Replacements:    []
+...

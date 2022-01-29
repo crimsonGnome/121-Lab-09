@@ -1,0 +1,16 @@
+---
+MainSourceFile:  '/home/crimsongnome/Desktop/lab-09-crimsonGnome/prob02/crewmate.cc'
+Diagnostics:
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'unknown type name ''d'''
+      FilePath:        astronaut.cc
+      FileOffset:      533
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         expected unqualified-id
+      FilePath:        astronaut.cc
+      FileOffset:      534
+      Replacements:    []
+...

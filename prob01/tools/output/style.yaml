@@ -1,0 +1,10 @@
+---
+MainSourceFile:  '/home/crimsongnome/Desktop/lab-09-crimsonGnome/prob01/shapes.cc'
+Diagnostics:
+  - DiagnosticName:  readability-magic-numbers
+    DiagnosticMessage:
+      Message:         '3.14159 is a magic number; consider replacing it with a named constant'
+      FilePath:        shapes.cc
+      FileOffset:      1231
+      Replacements:    []
+...
